@@ -1,0 +1,42 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+    background-size: 300px;
+    padding: 0;
+    margin: 0 ;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+header{
+    color: black;
+    font-size: 24px;
+}
+p{
+    color: rgb(30, 30, 30);
+    font-size: 18px;
+    margin-top: 10px;
+}
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    width: 100%;
+    color: whitesmoke;
+    background-color: rgb(75, 75, 75);
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+span{
+    margin-top: 30px;
+}
+#heading{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+canvas{
+    border: 1px solid black;
+}
